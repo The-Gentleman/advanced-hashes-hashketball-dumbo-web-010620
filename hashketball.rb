@@ -240,8 +240,6 @@ max_player = 0
      p player_hash
     end
   end
-
-
 end
 
 
